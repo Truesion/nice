@@ -1,11 +1,11 @@
 {
-  "name": "Amethyst",
-  "description": "fr",
+  "name": "veilsingles",
+  "description": "daddy veill",
   "version": ":fr:",
   "authors": [
     {
-      "name": "Fel1x",
-      "id": "499287211381096458"
+      "name": "veilsingles",
+      "id": "571404611328540672"
     }
   ],
   "theme_color_map": {
@@ -26,7 +26,7 @@
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
-      "#8961ba",
+      "ff0025", --
       "#4f5660"
     ],
     "INTERACTIVE_HOVER": [
@@ -34,7 +34,7 @@
       "#2e3338"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#a674e3",
+      "#ff0025", ---
       "#060607"
     ],
     "INTERACTIVE_MUTED": [
