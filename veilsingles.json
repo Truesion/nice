@@ -26,7 +26,7 @@
       "#747f8d"
     ],
     "INTERACTIVE_NORMAL": [
-      "ff0025", --
+      "ff0025", 
       "#4f5660"
     ],
     "INTERACTIVE_HOVER": [
@@ -34,11 +34,11 @@
       "#2e3338"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ff0025", ---
+      "#ff0025", 
       "#060607"
     ],
     "INTERACTIVE_MUTED": [
-      "#bfb9ff",
+      "#cc001e",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
@@ -136,22 +136,22 @@
     "PRIMARY_DARK_200": "#FFFFFF",
     "PRIMARY_DARK_300": "#B6B6B6",
     "PRIMARY_DARK_360": "#C8C8C8",
-    "PRIMARY_DARK_400": "#bebee3",
-    "PRIMARY_DARK_500": "#a674e3",
+    "PRIMARY_DARK_400": "#cc001e",
+    "PRIMARY_DARK_500": "#ff0025",
     "PRIMARY_DARK_600": "#0d0212",
     "PRIMARY_DARK_630": "#1a1b21",
     "PRIMARY_DARK_700": "#101010",
     "PRIMARY_DARK_800": "#0d0212",
-    "BRAND_NEW": "#a674e3",
-    "STATUS_RED": "#a674e3",
-    "STATUS_GREEN_600": "#a674e3"
+    "BRAND_NEW": "#ff0025",
+    "STATUS_RED": "#ff0025",
+    "STATUS_GREEN_600": "#ff0025"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#0d0212"
   },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/996426870633545831/1014226222542241862/17EDB677-3D9A-4EED-ABB7-AC40EB302940.jpg",
+    "url": "https://cdn.discordapp.com/attachments/899149013125836810/1029137832373133412/ezgif.com-gif-maker.gif",
     "alpha": 1.0
   }
 }
